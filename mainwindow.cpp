@@ -5,6 +5,8 @@
 #include "randomart.h"
 #include "transferdialog.h"
 
+#include <QApplication>
+#include <QDesktopWidget>
 #include <QSplitter>
 #include <QListWidget>
 #include <QVBoxLayout>
